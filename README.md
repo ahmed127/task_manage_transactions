@@ -6,3 +6,4 @@
 5) Run command `php artisan key:generate`
 6) Set mail config in a `.env` file
 7) Run command `php artisan migrate --seed`
+8) Run command `php artisan jwt:secret`
